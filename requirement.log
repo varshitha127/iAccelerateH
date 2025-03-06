@@ -6,4 +6,4 @@ seaborn
 plotly
 scikit-learn
 joblib  # If you're saving models
-pyngrok  # If using Colab
+ngrok.connect()
