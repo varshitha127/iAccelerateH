@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load your clustered dataset
-dataset="C:\Users\lakki\OneDrive\Desktop\P3rdyear\InfosysHacethon\clustered_healthcare_data.csv"
+dataset="clustered_healthcare_data.csv"
 df = pd.read_csv(dataset)
 
 # Streamlit App
