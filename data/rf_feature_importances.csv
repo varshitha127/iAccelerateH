@@ -1,0 +1,32 @@
+Feature,Importance
+Age,0.33427386104127554
+BMI,0.6657261389587245
+Do you eat fast food regularly ?,0.0
+Do you exercise on a regular basis ?,0.0
+Have you gained weight recently?,0.0
+Feeling sad or Tearful,0.0
+Irritable towards baby & partner,0.0
+Trouble sleeping at night,0.0
+Problems concentrating or making decision,0.0
+Overeating or loss of appetite,0.0
+Feeling anxious,0.0
+Feeling of guilt,0.0
+Problems of bonding with baby,0.0
+Suicide attempt,0.0
+work_interfere,0.0
+remote_work,0.0
+tech_company,0.0
+benefits,0.0
+care_options,0.0
+wellness_program,0.0
+seek_help,0.0
+anonymity,0.0
+leave,0.0
+mental_health_consequence,0.0
+phys_health_consequence,0.0
+coworkers,0.0
+supervisor,0.0
+mental_health_interview,0.0
+phys_health_interview,0.0
+mental_vs_physical,0.0
+obs_consequence,0.0
